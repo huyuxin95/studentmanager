@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1427123840 source:c:\users\ºúì¶öÎ\desktop\µç×Óa1311ºúì¶öÎ06\student\check.c
+	"stru.h"
+
+1427123507 c:\users\ºúì¶öÎ\desktop\µç×Óa1311ºúì¶öÎ06\student\stru.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<conio.h>
+	<windows.h>
+
